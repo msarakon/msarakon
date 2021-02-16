@@ -5,4 +5,3 @@
 
 - :office: full-stack web developer @ [Aava Medical Center](https://www.aava.fi/en)
 - :school: MSc in Computer Science
-- :school: Bachelor in Business Information Technology
