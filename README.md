@@ -1,5 +1,5 @@
 
-:yellow_heart: CSS :heart: JSON :purple_heart: JavaScript :blue_heart: PostgreSQL :green_heart: Vue.js :sparkling_heart: UX
+:yellow_heart: CSS :heart: JSON :purple_heart: TypeScript :blue_heart: PostgreSQL :green_heart: Vue.js :sparkling_heart: UX
 
 ---
 
